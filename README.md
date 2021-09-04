@@ -10,8 +10,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Kunal&langs_count=5&count_private=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Happy-Kunal/TelegramSports">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Happy-Kunal&repo=TelegramSports&theme=radical" />
+<a href="https://github.com/Happy-Kunal/singOutLoud/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Happy-Kunal&repo=singOutLoud&theme=radical" />
 </a>
 
 <a href="https://github.com/Happy-Kunal/proton">
