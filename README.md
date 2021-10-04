@@ -3,9 +3,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+# [Visit My Website (Desktop and Laptop Recommended)](https://happy-kunal.github.io/Happy-Kunal/)
+
+<div align="center">
+    <img alt = "🔥 Header" src="header.svg" />
+</div>
+
+
+<div align="center">
+    <img alt = "🔥 streak stats of Kunal Sharma" src="https://github-readme-streak-stats.herokuapp.com/?user=Happy-Kunal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+</div>
+
 
 <table>
-  <caption><img src="header.svg"></caption>
   <tr>
     <td colspan="2">
       <div align="center">
@@ -68,3 +78,9 @@
     </td>
   </tr>
 </table>
+
+![🔥 Kunal Sharma's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Happy-Kunal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+![profile visits](https://komarev.com/ghpvc/?username=Happy-Kunal)
+
+![bye](footer.svg)
